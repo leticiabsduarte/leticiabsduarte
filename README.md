@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">
+hello, welcome!
+</h1>
 
-<!--
-**leticiabsduarte/leticiabsduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+My name is Letícia Duarte, I'm QA from ÇUÇ Softs, studying electronics at IFAL and learning back-end⭐<br/> 
+</p>
+ ##
+ <p align="left">
+ You may contact me by
+ </p>
+ <a href="mailto:leticiabsduarte@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/mail.leticiabsduarte@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.leticiabsduarte@gmail.com"/>
+</a>
+<a href="https://instagram.com/leticiaduartebs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<div align="center">
+  <a href="https://github.com/leticiabsduarte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiabsduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabsduarte&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg"/>   
+  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
+</div>
+  
