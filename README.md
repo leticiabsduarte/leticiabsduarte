@@ -28,7 +28,7 @@ My name is Letícia Duarte, I'm QA from ÇUÇ Softs, studying electronics at IFA
 ##
 
  <p align="left">
- Languages learned/ in learning 
+ Languages 
  </p>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
