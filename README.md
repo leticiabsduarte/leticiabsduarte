@@ -30,7 +30,7 @@ My name is Letícia Duarte, I'm QA from ÇUÇ Softs, studying electronics at IFA
  <p align="left">
  Languages 
  </p>
-<div style="display: inline_block"><br>
+<div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg"/>   
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
