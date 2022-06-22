@@ -11,7 +11,7 @@ My name is Letícia Duarte, I'm QA from ÇUÇ Softs, studying electronics at IFA
  <p align="left">
  You may contact me by
  </p>
- <a href="mailto:leticiabsduarte@gmail.com" alt="Gmail"/>
+ <a href="mailto:leticiabsduarte@gmail.com" alt="Gmail"</a>
   <img src="https://img.shields.io/badge/mail.leticiabsduarte@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.leticiabsduarte@gmail.com"/>
 </a>
 <a href="https://instagram.com/leticiaduartebs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
@@ -20,7 +20,7 @@ My name is Letícia Duarte, I'm QA from ÇUÇ Softs, studying electronics at IFA
 ##
  
 <div align="center">
-  <a href="https://github.com/leticiabsduarte"/>
+  <a href="https://github.com/leticiabsduarte"</a>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leticiabsduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabsduarte&layout=compact&langs_count=7&theme=dracula"/>
 </div>
