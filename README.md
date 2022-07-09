@@ -3,7 +3,7 @@ Hello, welcome!
 </h1>
 
 <p align="center">
-My name is Letícia Duarte, I'm QA from ÇUÇ Softs, studying electronics at IFAL and learning back-end⭐<br/> 
+My name is Letícia Duarte, I'm PO from ÇUÇ Softs, studying electronics at IFAL and learning back-end⭐<br/> 
 </p>
 
  ##
