@@ -8,7 +8,8 @@ My name is Letícia Duarte, I'm PO from ÇUÇ Softs, studying electronics at IFA
 
  ##
 
- <p align="left">
+ <div align="center">
+ <p>
  You may contact me by
  </p>
  <a href="mailto:leticiabsduarte@gmail.com" alt="Gmail"/>
@@ -16,6 +17,7 @@ My name is Letícia Duarte, I'm PO from ÇUÇ Softs, studying electronics at IFA
 <a href="https://instagram.com/leticiaduartebs" target="_blank"/>
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
 </a>
+</div>
 
 ##
  
@@ -27,8 +29,9 @@ My name is Letícia Duarte, I'm PO from ÇUÇ Softs, studying electronics at IFA
 </div>
 
 ##
-
- <p align="left">
+ 
+ <div align="center">
+ <p>
  Languages 
  </p>
 <div>
@@ -36,5 +39,6 @@ My name is Letícia Duarte, I'm PO from ÇUÇ Softs, studying electronics at IFA
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg"/>   
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
+</div>
 </div>
   
