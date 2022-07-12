@@ -9,9 +9,9 @@ My name is Letícia Duarte, I'm PO from ÇUÇ Softs, studying electronics at IFA
  ##
 
  <div align="center">
- <p>
+ <h2>
  You may contact me by
- </p>
+ </h2>
  <a href="mailto:leticiabsduarte@gmail.com" alt="Gmail"/>
   <img src="https://img.shields.io/badge/mail.leticiabsduarte@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.leticiabsduarte@gmail.com"</a>
 <a href="https://instagram.com/leticiaduartebs" target="_blank"/>
@@ -31,14 +31,12 @@ My name is Letícia Duarte, I'm PO from ÇUÇ Softs, studying electronics at IFA
 ##
  
  <div align="center">
- <p>
+ <h2>
  Languages 
- </p>
-<div>
+ </h2> 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg"/>   
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
-</div>
 </div>
   
