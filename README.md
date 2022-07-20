@@ -35,6 +35,7 @@ My name is Letícia Duarte, I'm PO from Lisbom Softs, studying electronics at IF
  Languages 
  </h2>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg"/>   
-  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
+  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="30" width="40"src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_logo_vertical_rgb_default.svg" /> 
 </div>
   
