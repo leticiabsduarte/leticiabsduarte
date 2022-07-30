@@ -19,11 +19,13 @@ My name is Letícia Duarte, I'm PO from Lisbom Softs, studying electronics at IF
 </div>
 
 ##
- 
+
+<div align = "center">
 <a href="https://github.com/leticiabsduarte" >
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiabsduarte&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabsduarte&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
+</div>
 
 ##
  
