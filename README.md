@@ -24,6 +24,11 @@
  ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
  ![Arduíno](https://img.shields.io/badge/Arduíno-430098?style=for-the-badge&logo=arduino&logoColor=white)
+ ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
+ ![Trello](https://img.shields.io/badge/Trello-0E6BE6?style=for-the-badge&logo=trello&logoColor=white)
+ ![MD](https://img.shields.io/badge/Markdown-495059?style=for-the-badge&logo=markdown&logoColor=white)
+ ![junit](https://img.shields.io/badge/JUnit-7AD14B?style=for-the-badge&logo=junit5&logoColor=red)
+ 
        
 </div>
 
