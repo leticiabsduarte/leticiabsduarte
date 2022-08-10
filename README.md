@@ -18,8 +18,6 @@
  Languages and Technologies 
  </h3>
  
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javajava&logoColor=white)
- ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=fff)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
  ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -27,8 +25,23 @@
  ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
  ![Trello](https://img.shields.io/badge/Trello-0E6BE6?style=for-the-badge&logo=trello&logoColor=white)
  ![MD](https://img.shields.io/badge/Markdown-495059?style=for-the-badge&logo=markdown&logoColor=white)
- ![junit](https://img.shields.io/badge/JUnit-7AD14B?style=for-the-badge&logo=junit5&logoColor=red)
+       
+</div>
+
+##
+
+<div>
+ <h3>
+ Learning 
+ </h3>
  
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javajava&logoColor=white)
+ ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=fff)
+ ![node](https://img.shields.io/badge/Node.js-731B404?style=for-the-badge&logo=node.js&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
+ ![junit](https://img.shields.io/badge/JUnit-7AD14B?style=for-the-badge&logo=junit5&logoColor=red)
+ ![Express](https://img.shields.io/badge/Express-D8D8D8?style=for-the-badge&logo=express&logoColor=black)
+ ![bigode](https://img.shields.io/badge/Handlebars-FF0000?style=for-the-badge&logo=handlebars.js&logoColor=white)
        
 </div>
 
