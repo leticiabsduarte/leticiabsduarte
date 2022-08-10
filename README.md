@@ -40,8 +40,10 @@
  ![node](https://img.shields.io/badge/Node.js-731B404?style=for-the-badge&logo=node.js&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
  ![junit](https://img.shields.io/badge/JUnit-7AD14B?style=for-the-badge&logo=junit5&logoColor=red)
- ![Express](https://img.shields.io/badge/Express-D8D8D8?style=for-the-badge&logo=express&logoColor=black)
+ ![Express](https://img.shields.io/badge/Express.js-D8D8D8?style=for-the-badge&logo=express&logoColor=black)
  ![bigode](https://img.shields.io/badge/Handlebars-FF0000?style=for-the-badge&logo=handlebars.js&logoColor=white)
+ ![figma](https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=white)
+ ![wordpress](https://img.shields.io/badge/Wordpress-08298A?style=for-the-badge&logo=wordpress&logoColor=white)
        
 </div>
 
