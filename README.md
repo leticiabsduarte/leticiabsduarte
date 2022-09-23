@@ -43,6 +43,7 @@
  ![bigode](https://img.shields.io/badge/Handlebars-FF0000?style=for-the-badge&logo=handlebars.js&logoColor=white)
  ![figma](https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=white)
  ![wordpress](https://img.shields.io/badge/Wordpress-08298A?style=for-the-badge&logo=wordpress&logoColor=white)
+ ![js](https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
        
 </div>
 
