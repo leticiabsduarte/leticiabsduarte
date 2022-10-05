@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, welcome!</h1>
-<p align="center"> My name is Letícia Duarte, I'm PO from Lisbom Softs, studying electronics at IFAL and learning to be full stack⭐</p>
+<p align="center"> My name is Letícia Duarte, I'm studying electronics and aspiring to be full stack developer⭐</p>
 
  ##
 
